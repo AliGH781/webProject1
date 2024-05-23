@@ -1,0 +1,106 @@
+body{
+    margin: 0px 0px;
+    background-image: url("../photo/download\ \(9\).jpg");
+}
+h1 {
+ display: block;
+ text-align: center;
+ color: white;
+ background-color: #003049;
+ margin-bottom: 0px;
+ padding: 6px 0px;
+ ;
+}
+.login{
+    display: block;
+    margin: 0px 0px;
+    padding:10px 22%;
+    background-color: white;
+    align-items:center ;
+    justify-content: center;
+    background-color: #7bdcb5;
+}
+.uname{
+    color:#003049;
+    display: inline;
+}
+#username{
+    display:inline;
+    border-style: solid;
+    border-color: #003049;
+    border-radius: 30px;
+    justify-content: center
+}
+#password{
+    display:inline;
+    border-style: solid;
+    border-color: #003049;
+    border-radius: 30px;
+    justify-content: center
+}
+.psw{
+    color:#003049;
+    display: inline;
+    justify-content: center
+}
+.btn{
+    color: white;
+    background-color: #003049;
+    border-color: #003049;
+    border-width: 1px;
+    border-radius: 30px;
+    border-style: solid;
+    margin-left: 15px;
+    justify-content: center;
+    font-weight: bold;
+    padding: 3px 12px;
+}
+.rem{
+    display: inline;
+    color:#003049;
+    border-color: #003049;
+    justify-content: end;
+    font-weight: bold;
+    justify-content: center
+}
+.money{
+    justify-content: center;
+    background-color: #003049;
+    color: #7bdcb5;
+    font-weight: bold;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    
+}
+#balance{
+    background-color: #003049;
+    color:white;
+    justify-content: center;
+    font-weight: bolder;
+}
+#rate{
+    background-color: #003049;
+    color:white;
+    justify-content: center;
+    font-weight: bolder;
+}
+form{
+    margin:0px 0px;
+    padding: 0px 0px;
+}
+.cards{
+    border-style: solid;
+    border-color: #003049;
+    border-radius: 30px;
+    background-color: #003049;
+    color: white;
+    font-weight: bold;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.shop{
+    color:#003049;
+    margin: 4px 45%;
+    font-weight: bolder;
+    font-size: 50px;
+}

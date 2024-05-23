@@ -1,0 +1,59 @@
+body{
+  background-image: url("../photo/download\ \(9\).jpg");
+}
+.desc{
+color:white;
+background-color: #003049;
+border: #003049;
+margin: 20p 30px;
+padding: 9px 0px;
+border-radius: 12px;
+font-weight: bold;
+}
+.price{ border-style: solid;
+    border-color: #003049;
+    border-radius: 80px;
+    background-color: #003049;
+    color: red;
+    font-weight: red;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    width: 80px;
+    height:40px;
+}
+.button{
+ border-style: solid;
+    border-color: #003049;
+    border-radius:60px;
+    background-color: #003049;
+    color: white;
+    font-weight: bold;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    width: 80px;
+    height: 40px;
+  }
+.pay{
+ border-style: solid;
+    border-color: #003049;
+    border-radius:60px;
+    background-color: #008000;
+    color: white;
+    font-weight: bold;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    width: 80px;
+    height: 40px;
+  }
+.go{
+ border-style: solid;
+    border-color: #003049;
+    border-radius:60px;
+    background-color: #dc143c;
+    color: white;
+    font-weight: bold;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    width: 80px;
+    height: 40px;
+  }
